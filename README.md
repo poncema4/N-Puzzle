@@ -4,7 +4,7 @@
 This version of N-Puzzle allows the user to try and solve the problem of putting the pieces in order 1-9,
 the only moving piece is the empty piece which swaps places with the piece in the direction its moving, the game
 will only end when the pieces are in the proper order, use the help of AI when needed.
-  
+
 ________________________________________________________________________________
 Instructions for player:
 
