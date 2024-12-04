@@ -7,7 +7,7 @@ will only end when the pieces are in the proper order, use the help of AI when n
 
 ________________________________________________________________________________
 Instructions for player:
-  
+     
 Move up -> "Up arrow key"
      
 Move left -> "Left arrow key"
