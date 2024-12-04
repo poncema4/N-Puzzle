@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Instructions for player:
   
 Move up -> "Up arrow key"
-
+   
 Move left -> "Left arrow key"
 
 Move right -> "Right arrow key"
